@@ -17,6 +17,6 @@ Automate Create user, Get user details, Update user detail, and Delete user from
 3. Execute ***`npx allure serve allure-results`*** to generate allure report.
 
 **Note:**
-1. You can change API Token in ***.env*** file.
-2. You can change Testing Data in ***test\data*** folder.
+1. You can change API Token in **.env** file.
+2. You can change Testing Data in **test\data** folder.
 
