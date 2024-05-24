@@ -2,6 +2,7 @@
 
 ## Introduction
 This API automation demo using WebdriverIO Framework with Allure reporting.
+
 Automate Create user, Get user details, Update user detail, and Delete user from https://gorest.co.in/public-api/users/ API.
 
 ## How to use?
